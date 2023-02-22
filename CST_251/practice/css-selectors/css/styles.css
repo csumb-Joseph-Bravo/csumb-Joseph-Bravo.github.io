@@ -1,0 +1,32 @@
+ main span
+ {
+    color:darkred;
+    background-color:yellow;
+    front-weight:bold;
+}
+
+
+nav ul li span{
+   color:blue;
+
+}
+
+#degreeProgramCD{
+   border-top-left-radius:50px;
+   border-top-right-radius:50px;
+
+}
+
+#degreeProgramCS{
+   border-bottom-left-radius:50px;
+   border-bottom-right-radius:50px;
+}
+
+img{
+   max-width:100%;
+   height:auto; /* responsive images*/ 
+}
+.minorImage{
+   border:10px solid green;
+   padding:10px;
+}

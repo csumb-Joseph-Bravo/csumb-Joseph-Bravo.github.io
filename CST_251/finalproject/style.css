@@ -3,6 +3,9 @@ html {
   width: 100%;
 }
 
+body {
+  background-color: lightgoldenrodyellow;
+}
 
 header{
   width: 100%;

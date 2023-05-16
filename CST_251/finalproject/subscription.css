@@ -1,0 +1,96 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: lightgoldenrodyellow;
+}
+
+header{
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  font-size: xx-large;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: "Monaco", monospace;
+  margin-bottom: 0;
+  color: white; 
+  background-color: rgba(0,48,87,1)
+
+}
+
+
+.card-header{
+  background-color:rgba(0,48,87,1);
+  color: white;
+}
+
+
+
+#calender{
+  margin: 0 auto;
+}
+
+
+
+body
+{
+  display:flex;
+  flex-direction: column;
+
+  
+}
+
+
+
+
+
+
+
+
+#navbar{
+  
+   background-color: rgba(174,186,201,1)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+ 
+  
+  text-align: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  color: white;
+  font-size: 20px;
+  font-family: "Monaco", monospace;
+  background-color: rgba(0,48,87,1);
+  margin-top: auto;
+  width: 100%;
+
+  
+}
